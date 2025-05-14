@@ -4,5 +4,5 @@
 Run the following commands in your terminal :
 
 ```bash
-pipenv install langchain langchain_community langchain_huggingface faiss-cpu pypdf
-pipenv install huggingface_hub
+pip install langchain langchain_community langchain_huggingface faiss-cpu pypdf
+pip install huggingface_hub
