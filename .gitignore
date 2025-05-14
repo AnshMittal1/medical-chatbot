@@ -9,7 +9,7 @@ venv/
 .env
 
 # Ignore data and vector storage folders (usually large or generated files)
-data/
+
 vectorstore/
 
 # Ignore OS-specific files
